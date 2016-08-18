@@ -1,0 +1,17 @@
+{
+    "name": "amaranth-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Gesine Todt"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/amaranth-bower.git"
+    },
+    "description": "Amaranth font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
